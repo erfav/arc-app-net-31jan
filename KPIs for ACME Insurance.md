@@ -14,8 +14,8 @@
 
 ## Clientes Autónomos:
 
-### -Valor de Vida del Cliente (CLV): Calcula el valor total esperado que un cliente aportará a la empresa durante su relación.
-### -Cuota de Mercado: Evalúa la participación de la empresa en el mercado en comparación con la competencia.
+### -Porcentaje de Clientes Autónomos en la Adopción de API: Mide el porcentaje de clientes que adoptan y comienzan a utilizar nuevas API sin necesitar asistencia o soporte adicional del equipo de IT.
+### -Número de Procesos Automatizados por Cliente: Cuantifica la cantidad de procesos internos de los clientes que han sido automatizados utilizando las API proporcionadas, sin intervención directa del equipo de soporte.
 
 ---
 
